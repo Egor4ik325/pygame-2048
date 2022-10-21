@@ -10,7 +10,7 @@ features (sound, graphics, etc.).
 1. Numbers generates
 2. User presses keyboard keys
 3. Numbers combines
-4. 1, 2, 3 until number 2048 combines
+4. 1, 2, 3 until 2048 combines
 
 ## Logic
 
